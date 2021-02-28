@@ -1,0 +1,130 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: #eee;
+  color: #111;
+	background:bg.jpg;
+    font-family: happy school;
+    font-size: 30;
+	text-align: center;
+  color: #1E3E5C;
+}
+
+.picadilly {
+    position: relative;
+    font-weight: 100 !important;
+    letter-spacing: 5px;
+    width: 1200px;
+    line-height: 1;
+    margin: 14rem auto;
+    z-index: 1;
+    }
+    .tombol{
+        background-color: #1E3E5C;
+        font-family: happy school;
+        font-size: 30;
+        color: #8AC4D0;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        letter-spacing: 4px;
+        margin: 0px;
+        padding: 30px 60px;
+        cursor: pointer;
+      }
+      .tombol:hover{
+        background-color: rgb(35, 71, 105);
+      }
+      .tombolkmbl{
+        background-color: #F4D03F;
+        font-family: happy school;
+        font-size: 25;
+        color: #013302;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        margin: 0px;
+        padding: 10px 40px;
+        cursor: pointer;
+      }
+      .tombolkmbl:hover{
+        background-color: rgb(255, 136, 0);
+      }
+      .tombolnext{
+        background-color: #1E3E5C;
+        font-family: happy school;
+        font-size: 25;
+        color: #013302;
+        border: none;
+        border-radius: 10px;
+        box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.2);
+        text-align: center;
+        margin: 0px;
+        margin-right: auto;
+        padding: 10px 40px;
+        cursor: pointer;
+      }
+      .tombolnext:hover{
+        background-color: rgb(30, 62, 92);
+      }
+.link-button{
+        text-decoration: none;
+        background-color: #eeeeee;
+        color: black;
+        padding: 2px 6px 2px 6px;
+        border: 1px solid #c2c2c2;
+        border-radius:2px;
+      }
+.font {
+  font-family: happy school;
+  font-size: 40;
+}
+.fontmenu {
+  font-family: happy school;
+  margin: 8rem auto;
+  font-size: 60;
+}
+.tombolmenu{
+  background-color: #1E3E5C;
+  font-family: happy school;
+  
+  font-size: 25;
+  color: #8AC4D0;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0px 4px 12px 0px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  letter-spacing: 3px;
+  margin: 0px;
+  padding: 30px 50px;
+  cursor: pointer;
+}
+.tombolmenu:hover{
+  background-color: rgb(35, 71, 105);
+}
+.link-button1{
+  text-decoration: none;
+  background-color: #eeeeee;
+  color: black;
+  padding: 2px 6px 2px 6px;
+  border: 1px solid #c2c2c2;
+  border-radius:2px;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 80px 0;
+  height: 400px;
+  text-align: center;
+}
+.container h1 {
+  font-size: 20px;
+  transition-duration: 1s;
+  transition-timing-function: ease-in-put;
+  font-weight: 200;
+}
